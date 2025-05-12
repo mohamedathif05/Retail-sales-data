@@ -1,30 +1,21 @@
-Retail Sales Data – Price Trends Project Summary
+Unique_Project_Of_Sales
+This is the project of Sales data set
 
-In this project, I analyzed retail sales data to uncover pricing and sales trends. The work was divided into three main parts:
+🛍️ Retail Sales Data – Price Trends
+This project analyzes a retail sales dataset to discover price trends, customer behavior, and revenue-driving factors using Python (Pandas, Seaborn, Matplotlib) and SQL. A visual presentation (PPT) is included to summarize key business insights.
 
-Data Preparation (Pandas):
-I cleaned the dataset by removing missing values, duplicates, and canceled orders. I also created a new column TotalPrice (Quantity × UnitPrice) and exported the cleaned data for further use.
-
-SQL Insights:
-I loaded the cleaned data into a SQL database and extracted business insights including:
-
-Top 10 customers by total spending
-
-Total sales by country
-
-The month with the highest sales
-
-Average order value per customer
-
-EDA & Visualization (Pandas, Seaborn, Matplotlib):
-I performed exploratory analysis and visualized key trends:
-
-A time series line plot showing monthly sales trends
-
-A bar chart of top countries by revenue
-
-A pie chart of the top 5 customers' contribution
-
-A heatmap showing sales by month and country
-
-This project demonstrated my skills in data cleaning, SQL querying, and data visualization to derive meaningful business insights.
+📌 Project Summary
+Goal: To explore and analyze retail sales data for pricing trends and market insights.
+Approach:
+Data preprocessing using Pandas
+Exploratory Data Analysis (EDA) using Seaborn and Matplotlib
+SQL for structured queries and data extraction
+Final results visualized and summarized in a PowerPoint presentation
+🛠️ Tools & Technologies
+Python
+Pandas
+Seaborn
+Matplotlib
+MySQL
+Jupyter Notebook
+PowerPoint (for presentation)
